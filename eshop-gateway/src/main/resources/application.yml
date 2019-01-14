@@ -1,0 +1,18 @@
+server:
+  port: 8080
+security:
+  user:
+    name: eshop
+    password: zhao
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://${security.user.name}:${security.user.password}@localhost:8761/eureka/
+spring:
+  application:
+    name: eshop-gateway
+zuul:
+  routes:
+    user:
+      path: /u/**
+      service-id: eshop-user
