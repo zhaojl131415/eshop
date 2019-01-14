@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eshop-api" />
+        <module name="eshop-cache" />
+        <module name="eshop-cart" />
+        <module name="eshop-config" />
+        <module name="eshop-gateway" />
+        <module name="eshop-inventory" />
+        <module name="eshop-orders" />
+        <module name="eshop-register" />
+        <module name="eshop-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache" target="1.8" />
+      <module name="cache (1)" target="1.8" />
+      <module name="cache (2)" target="1.8" />
+      <module name="ehcache" target="1.8" />
+      <module name="eshop" target="1.8" />
+      <module name="eshop-api" target="1.8" />
+      <module name="eshop-cache" target="1.8" />
+      <module name="eshop-cart" target="1.8" />
+      <module name="eshop-config" target="1.8" />
+      <module name="eshop-gateway" target="1.8" />
+      <module name="eshop-inventory" target="1.8" />
+      <module name="eshop-orders" target="1.8" />
+      <module name="eshop-register" target="1.8" />
+      <module name="eshop-user" target="1.8" />
+      <module name="inventory" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache" options="-parameters" />
+      <module name="cache (1)" options="-parameters" />
+      <module name="cache (2)" options="-parameters" />
+      <module name="ehcache" options="-parameters" />
+      <module name="eshop" options="-parameters" />
+      <module name="eshop-api" options="" />
+      <module name="eshop-cache" options="" />
+      <module name="eshop-cart" options="" />
+      <module name="eshop-gateway" options="" />
+      <module name="eshop-inventory" options="" />
+      <module name="eshop-orders" options="" />
+      <module name="eshop-register" options="" />
+      <module name="eshop-user" options="" />
+      <module name="inventory" options="-parameters" />
+    </option>
+  </component>
+</project>
