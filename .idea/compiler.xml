@@ -14,6 +14,7 @@
         <module name="eshop-inventory" />
         <module name="eshop-orders" />
         <module name="eshop-register" />
+        <module name="eshop-sleuth" />
         <module name="eshop-user" />
       </profile>
     </annotationProcessing>
@@ -31,6 +32,7 @@
       <module name="eshop-inventory" target="1.8" />
       <module name="eshop-orders" target="1.8" />
       <module name="eshop-register" target="1.8" />
+      <module name="eshop-sleuth" target="1.8" />
       <module name="eshop-user" target="1.8" />
       <module name="inventory" target="1.8" />
     </bytecodeTargetLevel>
@@ -49,6 +51,7 @@
       <module name="eshop-inventory" options="" />
       <module name="eshop-orders" options="" />
       <module name="eshop-register" options="" />
+      <module name="eshop-sleuth" options="" />
       <module name="eshop-user" options="" />
       <module name="inventory" options="-parameters" />
     </option>

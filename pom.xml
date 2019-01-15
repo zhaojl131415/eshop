@@ -11,6 +11,7 @@
     <modules>
         <module>eshop-register</module>
         <module>eshop-gateway</module>
+        <module>eshop-sleuth</module>
         <module>eshop-user</module>
         <module>eshop-orders</module>
         <module>eshop-cart</module>

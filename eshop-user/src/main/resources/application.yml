@@ -12,3 +12,12 @@ eureka:
 spring:
   application:
     name: eshop-user
+  zipkin:
+    base-url: http://localhost:9411
+  datasource:
+    url: jdbc:mysql://192.168.100.54:3306/eshop
+    username: root
+    password: zhao
+#    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    platform: mysql

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" filepath="$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-orders/eshop-orders.iml" filepath="$PROJECT_DIR$/eshop-orders/eshop-orders.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-register/eshop-register.iml" filepath="$PROJECT_DIR$/eshop-register/eshop-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-sleuth/eshop-sleuth.iml" filepath="$PROJECT_DIR$/eshop-sleuth/eshop-sleuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-user/eshop-user.iml" filepath="$PROJECT_DIR$/eshop-user/eshop-user.iml" />
     </modules>
   </component>
