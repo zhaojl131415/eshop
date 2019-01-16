@@ -9,14 +9,17 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>eshop-register</module>
-        <module>eshop-gateway</module>
-        <module>eshop-sleuth</module>
-        <module>eshop-user</module>
-        <module>eshop-orders</module>
-        <module>eshop-cart</module>
-        <module>eshop-inventory</module>
-        <module>eshop-cache</module>
+        <module>eshop-register</module>     <!-- 8761 -->
+        <module>eshop-gateway</module>      <!-- 8080 -->
+        <!--<module>eshop-config</module>       &lt;!&ndash; 8090 &ndash;&gt;-->
+        <module>eshop-sleuth</module>       <!-- 9411 -->
+        <module>eshop-user</module>         <!-- 8101 -->
+        <module>eshop-product</module>      <!-- 8102 -->
+        <module>eshop-price</module>        <!-- 8103 -->
+        <module>eshop-orders</module>       <!-- 8104 -->
+        <module>eshop-cart</module>         <!-- 8105 -->
+        <module>eshop-inventory</module>    <!-- 8106 -->
+        <module>eshop-cache</module>        <!-- 8111 -->
     </modules>
 
     <parent>

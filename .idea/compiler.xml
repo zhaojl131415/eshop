@@ -13,6 +13,8 @@
         <module name="eshop-gateway" />
         <module name="eshop-inventory" />
         <module name="eshop-orders" />
+        <module name="eshop-price" />
+        <module name="eshop-product" />
         <module name="eshop-register" />
         <module name="eshop-sleuth" />
         <module name="eshop-user" />
@@ -31,6 +33,8 @@
       <module name="eshop-gateway" target="1.8" />
       <module name="eshop-inventory" target="1.8" />
       <module name="eshop-orders" target="1.8" />
+      <module name="eshop-price" target="1.8" />
+      <module name="eshop-product" target="1.8" />
       <module name="eshop-register" target="1.8" />
       <module name="eshop-sleuth" target="1.8" />
       <module name="eshop-user" target="1.8" />
@@ -50,6 +54,8 @@
       <module name="eshop-gateway" options="" />
       <module name="eshop-inventory" options="" />
       <module name="eshop-orders" options="" />
+      <module name="eshop-price" options="" />
+      <module name="eshop-product" options="" />
       <module name="eshop-register" options="" />
       <module name="eshop-sleuth" options="" />
       <module name="eshop-user" options="" />

@@ -25,16 +25,16 @@ public class TokenFilter extends ZuulFilter {
         HttpServletRequest request = ctx.getRequest();
         log.info(String.format("%s >>> %s", request.getMethod(), request.getRequestURL().toString()));
 
-        Object userId = request.getParameter("userId");
-        if(userId == null) {
-            log.warn("userId is empty");
-            ctx.setSendZuulResponse(false);
-            ctx.setResponseStatusCode(401);
-            try {
-                ctx.getResponse().getWriter().write("userId is empty");
-            }catch (Exception e){}
-            return null;
-        }
+//        Object userId = request.getParameter("userId");
+//        if(userId == null) {
+//            log.warn("userId is empty");
+//            ctx.setSendZuulResponse(false);
+//            ctx.setResponseStatusCode(401);
+//            try {
+//                ctx.getResponse().getWriter().write("userId is empty");
+//            }catch (Exception e){}
+//            return null;
+//        }
         log.info("ok");
         return null;
     }

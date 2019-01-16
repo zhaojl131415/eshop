@@ -14,5 +14,14 @@ spring:
 zuul:
   routes:
     user:
-      path: /u/**
+      path: /user/**
       service-id: eshop-user
+    product:
+      path: /product/**
+      service-id: eshop-product
+    price:
+      path: /price/**
+      service-id: eshop-price
+    inventory:
+      path: /inventory/**
+      service-id: eshop-inventory
