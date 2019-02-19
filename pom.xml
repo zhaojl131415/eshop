@@ -19,6 +19,8 @@
         <module>eshop-orders</module>       <!-- 8104 -->
         <module>eshop-cart</module>         <!-- 8105 -->
         <module>eshop-inventory</module>    <!-- 8106 -->
+        <module>eshop-datasync</module>     <!-- 8107 -->
+        <module>eshop-dataaggr</module>     <!-- 8108 -->
         <module>eshop-cache</module>        <!-- 8111 -->
     </modules>
 

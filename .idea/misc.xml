@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/eshop-sleuth/pom.xml" />
         <option value="$PROJECT_DIR$/eshop-product/pom.xml" />
         <option value="$PROJECT_DIR$/eshop-price/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-datasync/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

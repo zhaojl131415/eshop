@@ -34,8 +34,8 @@ public class BrandController {
         return "success";
     }
 
-    @GetMapping("/findById/{id}")
-    public Brand findById(@PathVariable Long id) {
+    @GetMapping("/findById")
+    public Brand findById(Long id) {
         return brandService.findById(id);
     }
 

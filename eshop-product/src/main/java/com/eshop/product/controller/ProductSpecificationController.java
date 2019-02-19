@@ -34,8 +34,8 @@ public class ProductSpecificationController {
         return "success";
     }
 
-    @GetMapping("/findById/{id}")
-    public ProductSpecification findById(@PathVariable Long id) {
+    @GetMapping("/findById")
+    public ProductSpecification findById(Long id) {
         return productSpecificationService.findById(id);
     }
 

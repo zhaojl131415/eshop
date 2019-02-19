@@ -12,8 +12,8 @@ spring:
   application:
     name: eshop-inventory
   datasource:
-    url: jdbc:mysql://192.168.100.54:3306/eshop
+    url: jdbc:mysql://192.168.100.100:3306/eshop
     username: root
-    password: zhao
+    password: root
     type: com.alibaba.druid.pool.DruidDataSource
     platform: mysql

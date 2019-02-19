@@ -34,8 +34,8 @@ public class ProductController {
         return "success";
     }
 
-    @GetMapping("/findById/{id}")
-    public Product findById(@PathVariable Long id) {
+    @GetMapping("/findById")
+    public Product findById(Long id) {
         return productService.findById(id);
     }
 

@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/eshop-cache/eshop-cache.iml" filepath="$PROJECT_DIR$/eshop-cache/eshop-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-cart/eshop-cart.iml" filepath="$PROJECT_DIR$/eshop-cart/eshop-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-config/eshop-config.iml" filepath="$PROJECT_DIR$/eshop-config/eshop-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-dataaggr/eshop-dataaggr.iml" filepath="$PROJECT_DIR$/eshop-dataaggr/eshop-dataaggr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-datasync/eshop-datasync.iml" filepath="$PROJECT_DIR$/eshop-datasync/eshop-datasync.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-gateway/eshop-gateway.iml" filepath="$PROJECT_DIR$/eshop-gateway/eshop-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" filepath="$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-orders/eshop-orders.iml" filepath="$PROJECT_DIR$/eshop-orders/eshop-orders.iml" />
